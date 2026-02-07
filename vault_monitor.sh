@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VAULT_DIR=~/secure_vault
+VAULT_DIR=/mnt/d/ALU/BSE/T2/CyberSecOps_The_Secure_Vault_Challenge
 REPORT="$VAULT_DIR/vault_report.txt"
 
 # Check if vault exists

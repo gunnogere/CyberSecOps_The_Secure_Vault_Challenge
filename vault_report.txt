@@ -1,0 +1,36 @@
+File: README.md
+Size: 1728 bytes
+Last modified: 2026-02-07 18:52:04.599840500 +0200
+Permissions: -rwxrwxrwx
+⚠️ SECURITY RISK DETECTED
+------------------------
+File: vault_monitor.sh
+Size: 1089 bytes
+Last modified: 2026-02-07 20:07:01.666859100 +0200
+Permissions: -rwxrwxrwx
+⚠️ SECURITY RISK DETECTED
+------------------------
+File: vault_ops.sh
+Size: 1224 bytes
+Last modified: 2026-02-07 19:58:31.256500400 +0200
+Permissions: -rwxrwxrwx
+⚠️ SECURITY RISK DETECTED
+------------------------
+File: vault_permissions.sh
+Size: 998 bytes
+Last modified: 2026-02-07 19:53:52.525774900 +0200
+Permissions: -rwxrwxrwx
+⚠️ SECURITY RISK DETECTED
+------------------------
+File: vault_report.txt
+Size: 672 bytes
+Last modified: 2026-02-07 20:07:04.892056300 +0200
+Permissions: -rwxrwxrwx
+⚠️ SECURITY RISK DETECTED
+------------------------
+File: vault_setup.sh
+Size: 1060 bytes
+Last modified: 2026-02-07 19:47:19.595402600 +0200
+Permissions: -rwxrwxrwx
+⚠️ SECURITY RISK DETECTED
+------------------------
