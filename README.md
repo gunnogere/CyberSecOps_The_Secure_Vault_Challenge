@@ -46,3 +46,7 @@ The project is split into **four steps**, with each step building on the previou
 - Bash scripting
 - Secure file handling
 - Basic security monitoring
+
+## Author
+**Joshua Mulongo**  
+j.mulongo@alustudent.com
